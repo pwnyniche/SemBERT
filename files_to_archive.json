@@ -1,0 +1,1 @@
+{"model.text_field_embedder.elmo.options_file": "/net/efs/aristo/allennlp/elmo_models/2x4096_512_2048cnn_2xhighway/converged/elmo_2x4096_512_2048cnn_2xhighway_options.json", "model.text_field_embedder.elmo.weight_file": "/net/efs/aristo/allennlp/elmo_models/2x4096_512_2048cnn_2xhighway/converged/elmo_2x4096_512_2048cnn_2xhighway_enwiki_news_967500_weights.hdf5"}

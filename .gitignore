@@ -2,3 +2,9 @@
 *.xml
 *.iml
 *.pyc
+snli_model/
+*.zip
+*.tar.gz
+*.th
+nli-data.json
+fta/
